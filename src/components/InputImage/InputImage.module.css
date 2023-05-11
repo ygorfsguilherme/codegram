@@ -1,0 +1,40 @@
+.container {
+    position: relative;
+    height: 120px;
+    width: 120px;
+    border: 1px solid var(--cor-cinza-1);
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+.container label {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 50%;
+
+}
+.container .image {
+    margin-top: 1.5rem;
+    font-size: 6rem;
+    color: var(--cor-cinza-1);
+}
+
+.container input {
+    display: none;
+}
+
+.container span {
+    position: absolute;
+    right: 2px;
+    bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 40px;
+    background-color: var(--cor-iris-100);
+    border-radius: 50%;
+    color: var(--cor-branco);
+    cursor: pointer;
+}

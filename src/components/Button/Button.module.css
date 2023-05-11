@@ -1,9 +1,8 @@
 .button {
     height: 48px;
     border-radius: 8px;
-    background-color: #5E49FF;
+    background-color: var(--cor-iris-100);
     color: #FFFFFF;
     width: 100%;
     border: none;
-    
 }

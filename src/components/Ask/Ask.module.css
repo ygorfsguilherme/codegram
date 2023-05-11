@@ -1,0 +1,19 @@
+.ask_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+    font-size: 14px;
+}
+
+.ask_container p {
+    color: var(--cor-cinza-100);
+    line-height: 30px;
+}
+
+.ask_container a {
+    color: var(--cor-iris-100);
+    font-weight: 700;
+    text-decoration: underline;
+}
