@@ -7,6 +7,16 @@ Este projeto foi criado com o objetivo de ensinar as alunas da [Mais1Code](https
 1º Aula
   - Criação do projeto usando NextJS
   - Conceitos e criação de componentes
+  
+[Baixa arquivos da aula](https://github.com/ygorfsguilherme/codegram/releases/tag/Aula)
+
+2º Aula
+  - Reutilização de components
+  - Usando props no components
+  - Usando o useRef do react
+  
+[Baixa arquivos da aula](https://github.com/ygorfsguilherme/codegram/releases/tag/A2)
+  
 
 ## <img height="35px" src="https://github.com/ygorfsguilherme/codegram/assets/100237670/78c7db95-8efa-45ff-99c8-4071ef238425" /> Pacotes e bibliotecas usados no projeto
 - [Next JS](https://nextjs.org/)
